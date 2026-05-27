@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersalidate",
+        "uuid": 23607234,
+        "checksum": "kvf50zm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
